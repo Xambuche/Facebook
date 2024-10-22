@@ -1,4 +1,4 @@
-- This is 
+- This is a front end website using React JS, designing a Facebook page with HTML and CSS.
 1. Run code
 - npm start
 
